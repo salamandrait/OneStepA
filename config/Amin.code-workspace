@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "D:\\01xampp\\htdocs\\OneStepA"
+		}
+	],
+	"settings": {
+
+		"php.suggest.basic":false,
+		"editor.fontSize": 13,
+		"php.validate.executablePath": "D:\\01xampp\\php\\php.exe",
+		"php.executablePath": "D:\\01xampp\\php\\php.exe",
+		"php.validate.run": "onType",
+		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+		"files.autoSave": "afterDelay",
+		"workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+		"workbench.colorTheme": "Default High Contrast",
+		"phpmd.command":"C:\\Users\\Ricardo Albornoz\\.vscode\\extensions\\ecodes.vscode-phpmd-1.1.0\\phpmd\\phpmd.phar",
+		"phpmd.verbose": true,
+		"php-cs-fixer.executablePath": "C:\\Users\\Ricardo Albornoz\\.vscode\\extensions\\junstyle.php-cs-fixer-0.1.119\\php-cs-fixer.phar",
+	}
+}

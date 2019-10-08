@@ -1,0 +1,20 @@
+js
+************************
+buttons.colVis.min
+buttons.html5.min
+/dataTables.bootstrap
+/dataTables.bootstrap.min
+/dataTables.buttons.min
+jquery.dataTables.min
+jszip.min
+pdfmake.min
+vfs_fonts
+
+ruta ../public/datatables/
+ css
+***********************
+buttons.dataTables.min
+jquery.dataTables.min
+responsive.dataTables.min
+
+ruta ../public/datatables/
